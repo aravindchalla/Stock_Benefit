@@ -6,9 +6,10 @@
   **You are also advised-** to read this entire readme file to understand the importance and efficiency of the app and hurdles faced during the journey. 
 
 **NOTE:** <br>
-* This Web App has been designed as part of a hackathon organised by PES University. <br>
-* The idea we had is to use data from the external API. ( The results page of the web app uses the data to show the stock prices in a tabular form which includes Opening value, Closing value, High value, Low value and Volume of that particular Stock, which are the data received from the external API ).
-* Also, we provided additional insights that are not directly available through the API. We created a seperate User authentication and also a watchlist feature in which a user can add his favourite stock into his watchlist.
+* This Web App has been designed as part of an internal hackathon organised by a technical club named IOTA of our institute. <br>
+* The idea that is part of a hackathon which we chose is to make a **web application that uses an external API.**<br>
+* As part of the idea we are asked to use the data from the external API. ( The results page of the web app uses the data to show the stock prices in a tabular form which includes Opening value, Closing value, High value, Low value and Volume of that particular Stock, which are the data received from the external API ).
+* Also, we are asked to provide additional insights that are not directly available through the API. So, we created a seperate User authentication and also a watchlist feature in which a user can add his favourite stock into his watchlist.
 # Impact 
 * The web app aims to help those middle class of people to analyse stocks, shares and the actual market. 
 * Thus, enabling them to intelligently invest their savings and make good profits.
